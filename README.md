@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**VenkataRaghavan-Automationtestlab/VenkataRaghavan-Automationtestlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the person, who ensures the quality of the product throughout the Software Development Life Cycle.
 
-Here are some ideas to get you started:
+👨‍💻 About Me:
+I'm a Senior Test Automation Engineer 👨‍🔬 from Chennai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm working as a Senior Software Test Automation Engineer and writing scripts to validate frontend and backend applications
+
+🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS)
+
+⚡ In my idle hours I'm learning new technologies or tool which helps to improve my career growth. (Learning is my habit)
+
+📫 How to reach me: https://www.https://www.linkedin.com/in/venkataraghavan-thillaigovindarajan1991/
+
+
